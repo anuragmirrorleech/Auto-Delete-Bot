@@ -21,7 +21,7 @@
 ## Deploy in your VPS
 
 ```sh
-git clone https://github.com/TG-V4MP1R3/Auto-Delete-Bot
+git clone https://github.com/anuragmirrorleech/Auto-Delete-Bot
 cd Auto-Delete-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
